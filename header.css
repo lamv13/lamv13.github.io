@@ -1,7 +1,7 @@
-body {
-    background-color: darksalmon;
-}
-h1 {
-    color:darkseagreen;
-    margin-left: 20px;
+.header {
+    padding: 60px;
+    text-align: center;
+    background:darkseagreen;
+    color:lightcoral;
+    font-size: 30px;
 }
